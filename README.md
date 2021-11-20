@@ -12,8 +12,12 @@ My name is <strong>Anthony Griffith</strong> and I'm currently a student of Comp
 
 ## Github Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyGriffith&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<br/>
+<a href="https://github.com/AnthonyGriffith/github-readme-stats"><img height='200px' alt="Anthony Griffith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyGriffith&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AnthonyGriffith/github-readme-stats"><img height='200px' alt="Anthony Griffith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 ## Connect with me:
 <p align="left">
