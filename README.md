@@ -21,6 +21,6 @@ My name is <strong>Anthony Griffith</strong> and I'm currently a student of Comp
 ## Connect with me:
 <p align="left">
 
-<a target="_blank" href = "https://www.linkedin.com/in/anthony-griffith/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp; &nbsp;
-<a target="_blank" href = "https://t.me/AnthonyGriffith"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>&nbsp; &nbsp;
-<a target="_blank" href="mailto:a.griffith.gonzalez@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new" alt="Gmail"></a> &nbsp; &nbsp;
+<a href = "https://www.linkedin.com/in/anthony-griffith/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp; &nbsp;
+<a href = "https://t.me/AnthonyGriffith"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>&nbsp; &nbsp;
+<a href="mailto:a.griffith.gonzalez@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new" alt="Gmail"></a> &nbsp; &nbsp;
