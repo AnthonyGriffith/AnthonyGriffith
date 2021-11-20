@@ -1,4 +1,4 @@
-<h2>Hello there, welcome to github's my profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Hello there, welcome to my github's profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 My name is <strong>Anthony Griffith</strong> and I'm currently a student of Computer Engineering and I love using thechnology to solve difficult problems with simple and accurate solutions.
   
 ## Languages and Tools:
@@ -8,6 +8,7 @@ My name is <strong>Anthony Griffith</strong> and I'm currently a student of Comp
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+
 
 ## Github Stats:
 <div align="center">
