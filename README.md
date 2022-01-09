@@ -1,7 +1,8 @@
 <h2>Hello there, welcome to my github's profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 My name is <strong>Anthony Griffith</strong> and I'm currently a student of Computer Engineering and I love using technology to solve difficult problems with simple and accurate solutions.
-  
+
 ## Languages and Tools:
+<a href="#" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
