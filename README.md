@@ -1,5 +1,5 @@
 <h2>Hello there, welcome to my github's profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-My name is <strong>Anthony Griffith</strong> and I'm currently a student of Computer Engineering and I love using technology to solve difficult problems with simple and accurate solutions.
+My name is <strong>Anthony Griffith</strong> and I'm Software Engineer and I love using technology to solve difficult problems with simple and accurate solutions.
 
 ## Languages and Tools:
 <a href="#" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> </a> 
