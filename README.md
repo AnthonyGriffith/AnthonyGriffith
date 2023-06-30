@@ -12,15 +12,6 @@ My name is <strong>Anthony Griffith</strong> and I'm currently a student of Comp
 <a href="https://es.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql"/> </a> 
 <a href="#"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"/> </a> 
 
-## Github Stats:
-
-<br/>
-<a href="https://github.com/AnthonyGriffith/github-readme-stats"><img height='200px' alt="Anthony Griffith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyGriffith&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AnthonyGriffith/github-readme-stats"><img height='200px' alt="Anthony Griffith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&langs_count=5&hide=java,Powershell&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 ## Connect with me:
 <p align="left">
 
